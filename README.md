@@ -1,6 +1,8 @@
 # Usman Ali
 
-### AI/ML Engineer · Data Scientist
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+reliable+AI+systems;Agentic+AI+%7C+RAG+%7C+NLP+%7C+Computer+Vision;From+experiments+to+production+APIs" alt="Animated tagline: reliable AI systems, agentic AI, RAG, NLP, computer vision" />
+</p>
 
 I build applied AI systems across **agentic workflows, retrieval, NLP, and computer vision**—from research prototypes to dependable APIs and deployed applications.
 
